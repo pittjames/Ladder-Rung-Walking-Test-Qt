@@ -24,7 +24,7 @@ This repository contains the software components for an automated ladder rung wa
 ## Usage
 
 1. Connect the Arduino board to your computer via USB.
-2. Run the Python Qt application: python sensor_visualization_app.py
+2. Run the Python Qt application: ladder rungs test python-qt.py
 3. In the application, select the correct serial port and baud rate (default 9600) for your Arduino connection. Click "Connect".
 Configure the sensor pin assignments and debounce settings if needed. The default configuration is:
 3.1 Foot Error Sensor on Arduino pin 2, debounce 200ms
